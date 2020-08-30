@@ -1,0 +1,3 @@
+HOST=localhost
+DB=ut_to_tahap1
+SECRET_JWT=TEXT SECRET LETAK KAN DI ENV
